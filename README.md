@@ -32,11 +32,20 @@ This is a fixed-scope security review of that codebase — written for founders 
 
 ---
 
-## How it works
+## DIY option (instant download)
 
-1. Email to start
-2. Grant **read-only GitHub** to **`dhishwasher`**, or send a **zip** of the source
-3. Receive the PDF in **5–10 business days** after intake is complete
+Prefer to run the same structure yourself first?
+
+**[Shipped App Security Checklist Pack — $39](https://corymaynard.gumroad.com/l/izkrnm)**  
+Printable checklist, finding template, Critical→Info roadmap, self-intake. Markdown zip. Not a done-for-you audit.
+
+---
+
+## How the $2,500 audit works
+
+1. Email to start  
+2. Grant **read-only GitHub** to **`dhishwasher`**, or send a **zip** of the source  
+3. Receive the PDF in **5–10 business days** after intake is complete  
 
 **Refunds:** full refund if review hasn’t started; after start, no refund (partial write-up if stopped early by agreement).
 
@@ -45,6 +54,7 @@ This is a fixed-scope security review of that codebase — written for founders 
 ## Buy / contact
 
 **Email:** corymaynard370@gmail.com — subject: `Security Audit`  
-**Payment:** invoice via email, or USDC on Base to `0x435CeB16bC21a8c19E7c84853b84c30CE82A7103`
+**Checklist pack:** https://corymaynard.gumroad.com/l/izkrnm  
+**Payment (audit):** invoice via email, or USDC on Base to `0x435CeB16bC21a8c19E7c84853b84c30CE82A7103`
 
 Async only. No calls.

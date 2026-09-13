@@ -1,2 +1,50 @@
-# product-security-audit
-Product / shipped-app security audit — $2500 fixed. Async PDF findings. No calls, no exploit PoCs. Contact corymaynard370@gmail.com.
+# Product Security Audit for shipped apps
+
+**$2,500 fixed** · 5–10 business days · findings + fix roadmap · async only · no exploit PoCs
+
+You have a live or launching product. Users, revenue, or a ship date are real. Auth, secrets, APIs, and data handling need a hard look before something breaks.
+
+This is a fixed-scope security review of that codebase — written for founders and SMBs who want a clear risk list and fix order, not a pen-test performance.
+
+---
+
+## What you get
+
+- Severity-ranked findings (Critical → Info)
+- Remediation steps you can hand to a developer
+- Prioritized fix roadmap
+- One PDF report
+
+## What you don’t get
+
+- Exploit PoC code or attack scripts
+- Mandatory calls
+- Open-ended hourly consulting
+
+---
+
+## Pricing
+
+| Tier | Price | Scope |
+|------|-------|--------|
+| **Standard** | **$2,500** | Single repo / single app |
+| **Extended** | **$4,000** | Multi-repo, complex auth, or payments in scope |
+
+---
+
+## How it works
+
+1. Email to start
+2. Grant **read-only GitHub** to **`dhishwasher`**, or send a **zip** of the source
+3. Receive the PDF in **5–10 business days** after intake is complete
+
+**Refunds:** full refund if review hasn’t started; after start, no refund (partial write-up if stopped early by agreement).
+
+---
+
+## Buy / contact
+
+**Email:** corymaynard370@gmail.com — subject: `Security Audit`  
+**Payment:** invoice via email, or USDC on Base to `0x435CeB16bC21a8c19E7c84853b84c30CE82A7103`
+
+Async only. No calls.

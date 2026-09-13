@@ -1,4 +1,4 @@
-# Product Security Audit for shipped apps
+# Product Security Audit for apps in production
 
 **$2,500 fixed** · 5–10 business days · findings + fix roadmap · async only · no exploit PoCs
 
@@ -36,8 +36,10 @@ This is a fixed-scope security review of that codebase — written for founders 
 
 Prefer to run the same structure yourself first?
 
-**[Shipped App Security Checklist Pack — $39](https://corymaynard.gumroad.com/l/izkrnm)**  
+**[App Security Checklist Pack — $39](https://corymaynard.gumroad.com/l/izkrnm)**  
 Printable checklist, finding template, Critical→Info roadmap, self-intake. Markdown zip. Not a done-for-you audit.
+
+Free sample: [SAMPLE.md](./SAMPLE.md) · Gumroad free download: https://corymaynard.gumroad.com/l/clgtpy
 
 ---
 

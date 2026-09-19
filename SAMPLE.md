@@ -23,7 +23,8 @@ Use this to feel the quality. Upgrade when you want the full checklist, finding 
 
 **30-day refund** on paid versions. **Support:** corymaynard370@gmail.com
 
-Related done-for-you audit (separate SKU): this repo's [README](./README.md).
+Related done-for-you audit (separate SKU): this repo's [README](./README.md).  
+Also separate DIY: [Webhook Production Checklist Pack — Complete $39](https://corymaynard.gumroad.com/l/bnmhyi) — Stripe/GitHub/HMAC receiver checklist, not a pen test.
 
 ---
 

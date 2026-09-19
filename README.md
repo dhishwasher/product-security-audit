@@ -41,6 +41,8 @@ Printable checklist, finding template, Critical→Info roadmap, self-intake. Mar
 
 Free sample: [SAMPLE.md](./SAMPLE.md) · Gumroad free download: https://corymaynard.gumroad.com/l/clgtpy
 
+Also: **[Webhook Production Checklist Pack — Complete $39](https://corymaynard.gumroad.com/l/bnmhyi)** — DIY webhook receiver checklist (Stripe/GitHub/HMAC). Not a pen test.
+
 ---
 
 ## How the $2,500 audit works

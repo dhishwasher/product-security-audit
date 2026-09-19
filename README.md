@@ -43,6 +43,8 @@ Free sample: [SAMPLE.md](./SAMPLE.md) · Gumroad free download: https://corymayn
 
 Also: **[Webhook Production Checklist Pack — Complete $39](https://corymaynard.gumroad.com/l/bnmhyi)** — DIY webhook receiver checklist (Stripe/GitHub/HMAC). Not a pen test.
 
+Also: **[Stripe Go-Live Security Kit — Complete $49](https://corymaynard.gumroad.com/l/qctfps)** · **[Free sample](https://corymaynard.gumroad.com/l/clhrdw)** — Stripe test→live checklist (webhooks/idempotency/secrets), not a pen test.
+
 ---
 
 ## How the $2,500 audit works

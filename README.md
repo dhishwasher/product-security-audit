@@ -36,10 +36,15 @@ This is a fixed-scope security review of that codebase — written for founders 
 
 Prefer to run the same structure yourself first?
 
-**[App Security Checklist Pack — $39](https://corymaynard.gumroad.com/l/izkrnm)**  
-Printable checklist, finding template, Critical→Info roadmap, self-intake. Markdown zip. Not a done-for-you audit.
+| Version | Link |
+|---------|------|
+| **Free sample** | https://corymaynard.gumroad.com/l/clgtpy |
+| **Starter ($19)** | https://corymaynard.gumroad.com/l/ovngr |
+| **Complete ($39)** | https://corymaynard.gumroad.com/l/izkrnm |
 
-Free sample: [SAMPLE.md](./SAMPLE.md) · Gumroad free download: https://corymaynard.gumroad.com/l/clgtpy
+Printable checklist, finding template, Critical→Info roadmap, self-intake (Complete). Markdown zip. Not a done-for-you audit.
+
+Also on GitHub: [SAMPLE.md](./SAMPLE.md)
 
 ---
 

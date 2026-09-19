@@ -36,14 +36,14 @@ This is a fixed-scope security review of that codebase — written for founders 
 
 Prefer to run the same structure yourself first?
 
-**[App Security Checklist Pack — Complete $39](https://corymaynard.gumroad.com/l/izkrnm)** · **[Starter $19](https://corymaynard.gumroad.com/l/ovngr)**  
+**[App Security Checklist Pack — Complete $19](https://corymaynard.gumroad.com/l/izkrnm)** · **[Starter $19](https://corymaynard.gumroad.com/l/ovngr)**  
 Printable checklist, finding template, Critical→Info roadmap, self-intake. Markdown zip. Not a done-for-you audit.
 
 Free sample: [SAMPLE.md](./SAMPLE.md) · Gumroad free download: https://corymaynard.gumroad.com/l/clgtpy
 
-Also: **[Webhook Production Checklist Pack — Complete $39](https://corymaynard.gumroad.com/l/bnmhyi)** — DIY webhook receiver checklist (Stripe/GitHub/HMAC). Not a pen test.
+Also: **[Webhook Production Checklist Pack — Complete $19](https://corymaynard.gumroad.com/l/bnmhyi)** — DIY webhook receiver checklist (Stripe/GitHub/HMAC). Not a pen test.
 
-Also: **[Stripe Go-Live Security Kit — Complete $49](https://corymaynard.gumroad.com/l/qctfps)** · **[Free sample](https://corymaynard.gumroad.com/l/clhrdw)** — Stripe test→live checklist (webhooks/idempotency/secrets), not a pen test.
+Also: **[Stripe Go-Live Security Kit — Complete $24](https://corymaynard.gumroad.com/l/qctfps)** · **[Free sample](https://corymaynard.gumroad.com/l/clhrdw)** — Stripe test→live checklist (webhooks/idempotency/secrets), not a pen test.
 
 ---
 
@@ -64,3 +64,10 @@ Also: **[Stripe Go-Live Security Kit — Complete $49](https://corymaynard.gumro
 **Payment (audit):** invoice via email, or USDC on Base to `0x435CeB16bC21a8c19E7c84853b84c30CE82A7103`
 
 Async only. No calls.
+
+---
+
+## Support / tip
+
+If a free sample or DIY pack helped, tips settle as USDC on Base (0% platform fee):  
+**[Tip jar](https://shieldz.cash/tip/tip-4384c11e25007cfc)**

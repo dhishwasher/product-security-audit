@@ -1,4 +1,4 @@
-# Free sample — Shipped App Security Checklist Pack
+# Free sample — App Security Checklist Pack
 
 **Teaser only** — not the full $39 Complete pack.  
 Use this to feel the quality. Upgrade when you want the full checklist, finding examples, and ship-blocker roadmap.
@@ -13,14 +13,15 @@ Use this to feel the quality. Upgrade when you want the full checklist, finding 
 
 **Rules:** Findings + remediation only. **No exploit PoCs.** Note locations so you can fix — not recipes to attack. Prefer staging. Review only apps you own or are authorized to test.
 
-**Links**
+**Buy / downloads**
 
-- Free sample (this teaser as download): https://corymaynard.gumroad.com/l/clgtpy
-- Starter ($19): https://corymaynard.gumroad.com/l/ovngr
-- Complete ($39, recommended): https://corymaynard.gumroad.com/l/izkrnm
+| Version | Link |
+|---------|------|
+| **Free sample** | https://corymaynard.gumroad.com/l/clgtpy |
+| **Starter ($19)** | https://corymaynard.gumroad.com/l/ovngr |
+| **Complete ($39)** | https://corymaynard.gumroad.com/l/izkrnm |
 
-**30-day refund** on paid versions.  
-**Support:** corymaynard370@gmail.com
+**30-day refund** on paid versions. **Support:** corymaynard370@gmail.com
 
 Related done-for-you audit (separate SKU): this repo's [README](./README.md).
 
